@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QalbeHabib
 - 👀 I’m interested in Web And App Development & BlockChain & CryptoCurrency.
-- 🌱 I’m currently learning Web Development & Crypto.
+- 🌱 I’m currently learning Web Development & BlockChain.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
