@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NFT-MarketPlace**
 
-- 🌱 I’m currently learning **Web3, Ehters , Solidity**
+- 🌱 I’m currently learning **Web3, Ehters , Solidity , DEX**
 
 - 👨‍💻 All of my projects are available at [github.com/qalbehabib](github.com/qalbehabib)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/qalbehabib/**
 
-- ⚡ Fun fact **I Love You ♥**
+- ⚡ Fun fact **I Love TO CODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
