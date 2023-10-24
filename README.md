@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/qalbehabib](github.com/qalbehabib)
 
-- 💬 Ask me about **React , NextJs , TypeScript**
+- 💬 Ask me about **React , NextJs , TypeScript , NFT , DEX , DAPP , WEB3**
 
 - 📫 How to reach me **https://www.linkedin.com/in/qalbehabib/**
 
