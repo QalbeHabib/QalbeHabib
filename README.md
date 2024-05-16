@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **GemsPad**
 
-- 🌱 I’m currently Working on **Web3, Ehters , Solidity , DEX**
+- 🌱 I’m currently Working on **gemlaunch.io**
 
 - 👨‍💻 All of my projects are available at [github.com/qalbehabib](github.com/qalbehabib)
 
