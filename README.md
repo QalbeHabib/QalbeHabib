@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm QalbeHabib</h1>
-<h3 align="center">A passionate Software Enginner from Pakistan</h3>
+<h3 align="center">A passionate Web3 Software Enginner from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qalbehabib&label=Profile%20views&color=0e75b6&style=flat" alt="qalbehabib" /> </p>
 
 
 
-- 🌱 I’m currently Working on **gemlaunch.io**
+- 🌱 I’m currently Working on **Degenmarkets.com**
 
 - 👨‍💻 All of my projects are available at [github.com/qalbehabib](github.com/qalbehabib)
 
-- 💬 Ask me about **React , NextJs , TypeScript , NFT , DEX , DAPP , WEB3 , solidity , Bloakchain**
+- 💬 Ask me about **React , NextJs , TypeScript , NFT , DEX , DAPP , WEB3 , solidity, Rust, Solana , Bloakchain**
 
 - 📫 How to reach me **https://www.linkedin.com/in/qalbehabib/**
 
