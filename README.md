@@ -1,5 +1,3 @@
-Here's your updated README, ready to paste directly into GitHub:
-
 <h1 align="center">👋 Hey, I'm Qalbe Habib</h1>
 <h3 align="center">Senior Web3 & Blockchain Engineer | Solana, Ethereum, DeFi, DEX, NFT</h3>
 
