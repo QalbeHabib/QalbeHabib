@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Qalbe Habib</h1>
-<h3 align="center">Senior Web3 & Blockchain Engineer | Solana, Ethereum, DeFi, DEX, NFT</h3>
+<h3 align="center">Senior Web3 & Blockchain Engineer | AI | ML | Solana, Ethereum, DeFi, DEX, NFT</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=qalbehabib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
