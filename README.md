@@ -9,16 +9,15 @@
 
 ## 🚀 About Me  
 🔹 Senior Web3 & Blockchain Engineer with expertise in **Solana, Ethereum, Rust, Solidity, and full-stack Web3 technologies**  
-🔹 Passionate about **decentralized finance (DeFi), smart contracts, and scaling blockchain applications**  
-🔹 Actively contributing to **open-source blockchain projects** and **Web3 innovations**  
+🔹 Passionate about **decentralized finance (DeFi)**, **smart contracts**, and **scaling P2P blockchain applications**  
+🔹 Currently working remotely with **Hatchyverse**, building a **P2P chat, video calling app, and collaborative whiteboard** without any central server using **Holepunch** stack  
+🔹 Exploring and learning **Machine Learning (ML)** and **Advanced AI Agents**  
 
 📌 **Currently Working On:**  
-- **Phase Presale on Solana** – Developing a **token presale platform** with **admin & user interaction** and seamless **token creation on Solana**  
-- **Solana Trading Bot** – Building a **high-performance trading bot** with advanced strategies  
+- **Holepunch-powered P2P App Suite** – Leveraging tools like **Hypercore, Hyperswarm, Autobase**, and more to enable **unstoppable decentralized communication**
+- **Solana Trading Bot** – High-performance bot with **frontrunning, liquidation sniping**, and **multi-wallet execution**  
 
 ---
-
-
 
 ## 🛠️ Tech Stack  
 
@@ -37,6 +36,12 @@
 ![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
 
+### **P2P & Collaboration (Holepunch Stack)**  
+![Holepunch](https://img.shields.io/badge/Holepunch-%231572B6?style=flat&logo=data&logoColor=white)
+![Hypercore](https://img.shields.io/badge/Hypercore-%23F48024?style=flat)
+![Hyperswarm](https://img.shields.io/badge/Hyperswarm-%2300BFFF?style=flat)
+![Autobase](https://img.shields.io/badge/Autobase-%234CAF50?style=flat)
+
 ### **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -52,11 +57,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/qalbehabib)  
 
 📧 **Email:** rana.habib313@gmail.com  
-📱 **Phone:** +923015957046
+📱 **Phone:** +923015957046  
 
-🔗 **Protfolio** [QalbeDev](https://qalbehabib.com)  
+🔗 **Portfolio**: [qalbehabib.com](https://qalbehabib.vercel.app)  
 ---
 
-## 🚀 Open to Collaboration  
-Looking to collaborate on **cutting-edge Web3 projects** in **Solana, Ethereum, DeFi, and NFT ecosystems**.  
-Let's build something amazing together! 🚀
+## 🤝 Open to Collaboration  
+Looking to collaborate on **cutting-edge Web3, AI/ML, and P2P projects** in **Solana, Ethereum, DeFi, and decentralized communication** ecosystems.  
+Let’s build the future of tech together! 🚀
